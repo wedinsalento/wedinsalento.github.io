@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://wedinsalento.github.io
+title: Wedinsalento.. eventi da colorare
+email: wedinsalento.office@gmail.com
+author: wedinsalento
+description: My awesome new site
+paginate: 10
+google_analytics: 
